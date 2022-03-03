@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MyNerdChild
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Krysta!
+- 👀 I’m interested in tecnology and design.
 - 🌱 I’m currently learning how to program 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Krysta.Parker@gmail.com
