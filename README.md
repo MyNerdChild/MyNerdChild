@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Krysta!
 - 👀 I’m interested in tecnology and design.
-- 🌱 I’m currently learning how to program 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to create and run programs in C++. 
 - 📫 How to reach me Krysta.Parker@gmail.com
 
 <!---
