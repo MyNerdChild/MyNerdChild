@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krysta!
 - 👀 I’m interested in tecnology and design.
-- 🌱 I’m currently learning how to create and run programs in C++. 
+- 🌱 I’m currently completing my BS Computer Science degree.
 - 📫 How to reach me Krysta.Parker757@gmail.com
 
 <!---
